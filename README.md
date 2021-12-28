@@ -21,3 +21,7 @@ P=Mohamad Jaelani adalah kata kunci yang di cari adalah 'Mohamad jaelani'
 => adalah cari didalam file dengan akhiran .txt\
 Bs adalah semua isi file\
 P=Mohamad Jaelani adalah kata kunci yang di cari adalah 'Mohamad jaelani'
+#### {DATE(yyyyMMdd)}
+pencarian file dengan menggunakan tanggal\
+contoh :
+### {DATE(yyyyMMdd)} melakukan pencarian file berdasarkan tanggal sekarang dengan format yyyyMMdd misal : 20211228
