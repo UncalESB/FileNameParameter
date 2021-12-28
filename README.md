@@ -25,4 +25,4 @@ P=Mohamad Jaelani adalah kata kunci yang di cari adalah 'Mohamad jaelani'
 pencarian file dengan menggunakan tanggal\
 contoh :
 #### {DATE(yyyyMMdd)} melakukan pencarian file berdasarkan tanggal sekarang dengan format yyyyMMdd misal : 20211228
-misal mau mencari file dengan nama : *20211228070148J7* maka paramternya adalah {DATE(yyyyMMdd)}
+misal mau mencari file dengan nama : *20211228070148J7* maka paramternya adalah ####{DATE(yyyyMMdd)}*
