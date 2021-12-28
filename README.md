@@ -24,4 +24,4 @@ P=Mohamad Jaelani adalah kata kunci yang di cari adalah 'Mohamad jaelani'
 #### {DATE(yyyyMMdd)}
 pencarian file dengan menggunakan tanggal\
 contoh :
-### {DATE(yyyyMMdd)} melakukan pencarian file berdasarkan tanggal sekarang dengan format yyyyMMdd misal : 20211228
+#### {DATE(yyyyMMdd)} melakukan pencarian file berdasarkan tanggal sekarang dengan format yyyyMMdd misal : 20211228
