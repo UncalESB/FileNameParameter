@@ -1,4 +1,4 @@
-# FileNameParameter
+# FileNameParameter (Deleted, use UEL instead)
 ini digunakan untuk menyaring nama file dan juga menyaring isi dari berkas yang di ambil oleh *File Adapter*\
 parameter ini dimasukan kedalam isian *File Name* pada *UIC*\
 #### [*FILE_EXTENSION*]=>B[*n*]M[*n*]A[*n*]P=[*ARGUMENT*]
